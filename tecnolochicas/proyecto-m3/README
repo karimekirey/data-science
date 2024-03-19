@@ -2,3 +2,22 @@ EQUIPO #37
 
 Karime Sánchez
 Edith Villafaña
+----------------------------------
+Descripción del Dataset
+En los países de América Latina (ALC) se registran 330.259.608 mujeres al 2021, cada una de ellas tiene una esperanza de vida aproximada de 75 años. Sin embargo, no todas tienen la oportunidad de lograrlo, ya que solo en 2021 fueron 4.425 mujeres las que murieron por feminicidios (homicidio agravado por razones de género) y 2.571 fallecieron por mortalidad materna.
+
+Este conjunto de datos permite comprender dos de las razones de las muertes de mujeres (feminicidios y mortalidad materna). Esto proporciona información de:
+
+-Población femenina en ALC
+-Esperanza de vida femenina
+-Número de feminicidios
+-Índice de mortalidad materna
+-Índice de paz global
+
+Este dataset se llama *Latin America -Femicides & Maternal Mortality* y fue obtenido de Kaggle.
+
+El dataset fue cargado a GitHub para una importación más agil.
+
+----------------------------------
+Descripción de la problemática
+El ser mujer en América Latina es actualmente considerado como un factor de riesgo, “Esta violencia no es casual, el factor de riesgo es ser mujer" Lori Heise. Asimismo América Latina ha reportado durante los ultimos años altas cifras de violencia,factor que es considerado al contabilizar y generar los indices de paz global en cada país. Ahora bien, al determinarse cual es el Índice de Paz Global de cada uno de los paises que conforman a América Latina, se considera no solo la paz interna del país sino otros tantos indicadores como son: Homicidio, Delitos con violencia, Delitos cometidos con armas de fuego, Cárcel sin sentencia y Crímenes de la delincuencia organizada, Número de guerras (internas y externas) libradas, Muertos en guerras externas e internas estimados, Nivel de conflictos internos, Inestabilidad política, Nivel de respeto por los derechos humanos (escala de terror político), Posibilidad de actos terroristas, Probabilidad de manifestaciones violentas, Número de agentes de policía y cuerpos de seguridad.Mismos indicadores que podrian ser causantes de una diminucion en la esperanza de vida de población y en especial de las mujeres de América Latina.
